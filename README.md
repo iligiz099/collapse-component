@@ -3,5 +3,5 @@
 
 - **ReactJS 18**
 - **TypeScript**
-- **Jest*
+- **Jest
 - 
